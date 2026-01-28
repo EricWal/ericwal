@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Ali
 
-<!--
-**EricWal/ericwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner developer & aspiring IT professional  
+🚀 Passionate about coding and building things  
+📱 Interested in Ethical Hacking, Web and Mobile Development  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- I enjoy working with **React** and **React Native**
+- I have experience with:
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+- I’m still a **beginner**, but I learn fast and practice a lot
+- Currently seeking an **entry-level job or internship in IT**
+
+## 🛠️ Technologies & Tools
+- Frontend: HTML, CSS, JavaScript, React
+- Mobile: React Native
+- Backend (basic): PHP
+- Tools: Git, GitHub, VS Code
+
+## 🌱 Currently Learning
+- Improving my React & React Native skills
+- Building small projects to gain real-world experience
+
+## 📫 How to reach me
+- GitHub: https://github.com/EricWal
+
+⭐ Always open to learning, collaboration, and new opportunities!
