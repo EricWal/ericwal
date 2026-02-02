@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ali
 
-💻 Beginner developer & aspiring IT professional  
+💻 Developer & aspiring IT professional  
 🚀 Passionate about coding and building things  
 📱 Interested in Ethical Hacking, Web and Mobile Development  
 
@@ -12,7 +12,7 @@
   - CSS
   - JavaScript
   - PHP
-- I’m still a **beginner**, but I learn fast and practice a lot
+- I learn fast and practice a lot
 - Currently seeking an **entry-level job or internship in IT**
 
 ## 🛠️ Technologies & Tools
@@ -27,5 +27,6 @@
 
 ## 📫 How to reach me
 - GitHub: https://github.com/EricWal
+- Website: https://ericwal.github.io/
 
 ⭐ Always open to learning, collaboration, and new opportunities!
